@@ -24,3 +24,11 @@ body {
   font-weight: 400;
   opacity: 0.5;
 }
+
+
+
+header {
+  position: fixed;
+  top: 0;
+  padding: 50px;
+}
