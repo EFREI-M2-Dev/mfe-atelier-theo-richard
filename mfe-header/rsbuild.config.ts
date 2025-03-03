@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [
       pluginReact(),
       pluginModuleFederation({
-        name: 'mfe-header',
+        name: 'mfe_header',
         exposes: {
           './header': './src/header.tsx',
         },
